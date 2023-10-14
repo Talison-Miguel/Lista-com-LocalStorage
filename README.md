@@ -56,7 +56,7 @@ Uma lista de checkboxes que usa localStorage, feita com javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/LocalStorage.git
+  ❯ git clone https://github.com/Talison-Miguel/Lista-com-LocalStorage.git
 ```
 
 ---
